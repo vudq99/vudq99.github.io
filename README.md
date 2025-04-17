@@ -1,3 +1,1 @@
-# vudq99.github.io
-
-My website
+My work-in-progress website
