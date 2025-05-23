@@ -8,5 +8,5 @@ export const aboutData = {
   location: "Vietnam",
   education:
     "Bachelor's Degree in International Business Administration and Management - Foreign Trade University, Hanoi (2017-2021)",
-  interests: ["Product Strategy", "UX Design", "Data Analytics", "System Thinking", "Agile Methodologies"],
+  interests: ["Product Strategy", "UX Design", "Data Analytics", "Agile Methodologies", "System Thinking"],
 }
