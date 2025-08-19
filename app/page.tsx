@@ -28,6 +28,9 @@ export default function Home() {
             <Link href="#skills" className="text-sm font-medium hover:text-primary">
               Skills
             </Link>
+            <Link href="/games" className="text-sm font-medium hover:text-primary">
+              Games
+            </Link>
             <Link href="#contact" className="text-sm font-medium hover:text-primary">
               Contact
             </Link>
