@@ -8,8 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Duong Quang Vu - Product Manager",
   description: "Professional portfolio of Duong Quang Vu, Product Manager",
-  metadataBase: new URL("https://vuduong.vercel.app"), // Replace with your actual domain
-    generator: 'v0.dev'
+  metadataBase: new URL("https://vudq99.github.io/"),
 }
 
 export default function RootLayout({

@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { FileText } from "lucide-react"
+import { ModeToggle } from "@/components/ui/mode"
 import { AboutSection } from "@/components/about-section"
 import { ExperienceSection } from "@/components/experience-section"
 import { ProjectsSection } from "@/components/projects-section"
@@ -31,9 +32,12 @@ export default function Home() {
               Contact
             </Link>
           </nav>
-          <Button asChild size="sm">
-            <Link href="#contact">Get in Touch</Link>
-          </Button>
+          <div className="flex items-center gap-2">
+            <ModeToggle />
+            <Button asChild size="sm">
+              <Link href="#contact">Get in Touch</Link>
+            </Button>
+          </div>
         </div>
       </header>
 
@@ -61,7 +65,7 @@ export default function Home() {
               </div>
             </div>
             <div className="relative aspect-square md:aspect-auto md:h-[500px] rounded-lg overflow-hidden">
-              <img src="/images/profile.png" alt="Duong Quang Vu" className="object-cover w-full h-full" />
+              <img src="/profile.jpg" alt="vudq" className="object-cover w-full h-full" />
             </div>
           </div>
         </section>
