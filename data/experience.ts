@@ -8,7 +8,7 @@ export interface ExperienceItem {
 
 export const experienceData: ExperienceItem[] = [
   {
-    title: "Technical Product Manager",
+    title: "Product Manager (technical user facing)",
     company: "Holistics BI",
     period: "Jan 2024 - Present",
     description: "Leading product discovery and development for a SaaS BI platform.",
@@ -19,7 +19,7 @@ export const experienceData: ExperienceItem[] = [
     ],
   },
   {
-    title: "Product Manager",
+    title: "Product Manager (business user facing)",
     company: "Holistics BI",
     period: "Feb 2022 - Dec 2023",
     description: "Focused on the Business User Experience for a self-service analytics platform.",
@@ -40,7 +40,7 @@ export const experienceData: ExperienceItem[] = [
     ],
   },
   {
-    title: "Operations Optimization Specialist",
+    title: "Operations Optimization Specialist Intern",
     company: "Giao Hang Tiet Kiem (GHTK)",
     period: "May 2020 - Dec 2020",
     description: "Contributed to internal logistics app and delivery service projects.",

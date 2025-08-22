@@ -50,7 +50,7 @@ export default function Home() {
           <div className="max-w-[1400px] mx-auto px-6 grid gap-8 md:grid-cols-2 md:gap-12 items-center">
             <div className="space-y-6">
               <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
-                Product Manager with a passion for intuitive solutions
+                Product Manager with an obsession for intuitive solutions
               </h1>
               <p className="text-lg text-muted-foreground">
                 Turning complex workflows into intuitive, scalable solutions with 5+ years of experience in SaaS and internal platforms.
